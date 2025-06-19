@@ -1,0 +1,15 @@
+{
+  "name": "pooltime",
+  "version": "1.0.0",
+  "description": "Weather notification app for sunny pool time",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "twilio": "^5.0.0",
+    "node-cron": "^3.0.3",
+    "dotenv": "^16.4.0"
+  }
+}
